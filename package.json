@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Youssouf El AZIZI",
   "license": "ISC",
   "dependencies": {
     "twit": "^2.2.9"
