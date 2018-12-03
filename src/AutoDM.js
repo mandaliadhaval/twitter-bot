@@ -41,8 +41,8 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  const LinkedIn = 'LinkedIn'/n/n 'https://www.linkedin.com/in/dhavalmandalia/'
-  return `Hi ${name} Thank You for following me. Please also be part of my ${LinkedIn} network.\n Happy ${dayName} 😊😊 `; // your message
+  //const LinkedIn = 'LinkedIn'/n/n 'https://www.linkedin.com/in/dhavalmandalia/'
+  return `Hi ${name} Thank You for following me. Please also be part of my LinkedIn network.\n Happy ${dayName} 😊😊 `; // your message
   // My message   return `Hi ${name} Thanks for being a part of my social media network. I'am the @PicsrushE founder,A new Online Image Editor completely with web technologies,I'm also a reactjs developer and medium blogger.\n Happy to discuss anytime 😊  \n Happy ${dayName} 😊😊 `;
 };
 
